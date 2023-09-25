@@ -88,58 +88,20 @@ This is my dream space, future and space for only her ❤️.
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 |     2020.03 ~     |      Education      | Department of Civil and Environmental Engineering |           Hanbat National University           |
 | 2014.03 ~ 2017.03 |   Gifted Education  |                    Certificated                   | Educational Research and Information Institute |
-|     2015.11.25    |        Award        |                     Gold Prize                    | Educational Research and Information Institute |
-|     2021.12.10    |        Award        |                  President's Award                |           Hanbat National University           |
 |     2021.12.20    |        Award        |                 Encouragement Prize               |           Hanbat National University           |
-| 2022.06.28 ~ 2022.08.18 |        Award        |           [Encouragement Prize](./assets/images/LH.png)               |         Korea Land&Housing Corporation         |
-|     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
-|     2022.11.25    |        Award        |                  Excellence Prize                 |           Hanbat National University           |
-| 2021.06.23 ~ 2021.09.09 |     Competition     |      Open Source Software Developer Competition   | [Open Source Software Support Center](https://www.oss.kr/) |
 | 2023.05.19 ~ 2023.05.21 |     Competition     |      Glitch Hackathon   | Trinity |
 |  2021.10 ~ 2022.09.10   |         Club        | Vice-chairman, [import(Coding Club)](https://import-hanbat.com/) |           Hanbat National University[<sup>1</sup>](#1)          |
 |     2023.03 ~     |         Club        | AI Developer, [Miracle](https://www.instagram.com/team_miracle_hbnu/) |           Hanbat National University[<sup>1</sup>](#1)          |
-|  2023.03 ~ 2024.02   | On-Campus Activities | [소중한 봉사단 2기](http://www.ccnnews.co.kr/news/articleView.html?idxno=288342) |           Hanbat National University[<sup>1</sup>](#1)          |
 |  2023.03 ~ 2024.02   | On-Campus Activities | [Cub Reporter](/assets/images/herald/) |           [Hanbat Herald]((https://www.hanbat.ac.kr/news/index.do)), Hanbat National University[<sup>1</sup>](#1)          |
 |      2017.09      | External Activities |     Institute for Higher Education Innovation     |                Yonsei University               |
-| 2020.05 ~ 2020.12 | External Activities |                     Translator                    |                    JavaTPoint                  |
-|     2022.05 ~      | External Activities |     One Week One Blog Post     |                Non-Profit Organization               |
-| 2023.07.24 ~ 2023.08.31 | External Activities | [Hana Power on Challenge](./assets/images/hana_univ/) | [Hana Financial Group](https://www.hanapoweron.com/) |
 |     2014.01.31 ~  |   Team Activities   |                 Leader, YouHyeok Team             |                       N/A                      |
-|     2019.11 ~     |   Team Activities   |                 Hacker, MOKA Team                 |             Sungkyunkwan University            |
-| 2019.12 ~ 2021.07 |   Team Activities   |                 Leader, PSG Team                  |                       N/A                      |
-|     2022.01 ~     |   Team Activities   |                 Leader, Project Team              |                       N/A                      |
-| 2020.10 ~ 2021.02 |   Team Activities   |               Leader, APPSILON Team               |                       N/A                      |
-|     2021.02 ~     |   Team Activities   | Researcher, [Dropper Lab](https://dropper.tech)   |                    Halliance                   |
-| 2021.02 ~ 2021.07 |   Team Activities   |               App Developer, 과제 다했니             |                    과제 다했니                    |
 |     2022.01 ~     |   Start-up, Club    |                    나만의 알바, CTO                  | Hanbat National University Start-up Support Foundation[<sup>2</sup>](#2), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
-|     2022.01 ~     |       Start-up      |                  Developer, [LABis](https://www.saramin.co.kr/zf_user/company-info/view?csn=eWUwRXJzSm02Sm5OMUZISDFNbXVsQT09)                 | UNIST[<sup>3</sup>](#3), [KOSME](https://start.kosmes.or.kr/yh_mai001_001.do) |
 | 2023.03 |   Work Experience   |                  Lecturer (C, Python, SQL)                 | [Hyosung Computer Academy](https://comgopa.co.kr/)[<sup>4</sup>](#4) |
 |     2023.03 ~     |   Work Experience   |                  Lecturer (C, Python, C++, Java) (₩ 15K ~ 30K per Hour)                 | N/A |
 | 2018.08 ~ 2018.09 |       Project       | The Recycle Project<br />(Haesung High School Notice App) |      Jeonju Haesung High School          |
-| 2020.05 ~ 2021.07 |       Project       | The Stellar Project<br />(One Commit per Day)     |                    PSG Team                    |
-|     2021.01 ~     |       Project       | The Demeter Project<br />(EZEN Const Web Site)    |           Ezen Construction Company            |
-| 2021.01 ~ 2021.07 |       Project       | The Booung Project<br />(PSG Notification Service)|                    PSG Team                    |
-| 2021.01 ~ 2021.05 |       Project       | The Zilot Project<br />(Github Generalization)    |                    PSG Team                    |
-| 2021.02 ~ 2021.07 |       Project       | The Pilot Project<br />(PSG Kakao Chatbot)        |                    PSG Team                    |
-|     2022.01 ~     |       Project       | The Hyades Project<br />(PSG Platform(Such as Notion)) |               PSG Team                    |
-|     2022.02 ~     |       Project       | The petBook Project<br />(Animal Info)            |                    PSG Team                    |
-| 2021.02 ~ 2021.07 |       Project       | The Semyorka Project<br />(YouHyeok Official Website)|                 YouHyeok                    | 
-|     2021.07 ~     |       Project       | The Nemesis Project<br />                         |                       N/A                      |
-|     2022.02 ~     |       Project       | The Zeus Project<br />                            |                       N/A                      |
-| 2021.07 ~ 2023.01 |       Project       | The Ulixes Project<br />(Photo Editing Software for Image Augmentation)  | Construction Information Technology Lab, Hanbat Nat'l Univ. |
-| 2021.03 ~ 2021.07 |       Project       | The Pigbar Donut Project<br />(Information)       |                    과제 다했니                    |
-|     2023.03       |       Project       | Development of Instructor Management System<br />(Based on Spring Boot, EgovFramework, MariaDB)<br />(₩ 4,000K ~ 7,000K per one copy)       |                    LABis                    |
-|     2023.05       |       Project       | Development of a Shopping Malls <br />(Based on ReactJS, Typescript)<br />(₩ 100K ~ 150K per one copy)       |                    LABis                    |
-| 2023.06 ~ |       Project       | Development of a Text to 3D Rendering System <br />(Based on PyTorch3D)<br />(Confidential)       |                    LABis                    |
-| 2023.10 ~ 2024.01 (Expected) |       Project       | Development of an OwnLab MVP Model <br />(Based on ReactJS and React Native)<br />(₩ 6,600K ~ 7,200K)       |                    OwnLab                    |
 | 2021.07 ~ 2021.08 | Offline Internships | Image Classification with Toy Sets     | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
 | 2023.01.27 ~ 2023.02.20 | [Offline Internships](./assets/images/internships/KU/) | Analysis of the Extended Boussinesq Equations | [Coastal Hydrodynamics Lab, Korea Univ.](http://coastal.korea.ac.kr/)[<sup>6</sup>](#6) |
 | 2021.02 ~ 2022.08 | Research Activities | Resolving an Inverse Problem based on Deep Neural Networks | Mathematical Sciences Lab, Hanbat Nat'l Univ. |
-| 2021.08 ~ 2021.12 | Research Activities | Image Processing based on Deep Neural Networks for Detecting a Fender | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2021.12 ~ 2023.01 | Research Activities | Real-time Fenders Detection and Mapping System using Streo Vision and GPS | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2021.06 ~ 2023.01 | Research Activities | Object Detection for Multiple Types of Fenders | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-| 2022.06 ~ 2023.01 | Research Activities | Laboratory Leader | Construction Information Technology Lab, Hanbat Nat'l Univ.[<sup>5</sup>](#5) |
-|     2023.01 ~     | Research Activities | Supporter, Developer | Hydraulic and Ecology-Environment Lab, Hanbat Nat'l Univ.[<sup>7</sup>](#7) |
 | 2022.04 | Papers | [Development of Fender Segmentation System for Port Structures using Vision Sensor and Deep Learning](http://journal.auric.kr/jksmi/ArticleDetail/CMAG/244042) | Journal of the Korea Institute for Structural Maintenance and Inspection[<sup>8</sup>](#8) |
 | 2022.11 | [Posters](https://www.coseik.or.kr/boards/notice/28995/detail/news/notice/)[<sup>9</sup>](#9) | [Development of a Construction Robot for Evaluation of Assembly Performance of Modular Steel Structures](./assets/images/poster.JPG) | Journal of the Computational Structural Engineering Institute of Korea[<sup>10</sup>](#10) |
 | 2021.03.22 ~ 2021.06.17 | Extracurricular Activities | Math Assistant | Nomad College, Hanbat Nat'l Univ. |  
